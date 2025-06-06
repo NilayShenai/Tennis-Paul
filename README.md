@@ -14,7 +14,7 @@ Tennis Paul Beta-1 is a computer vision app that uses YOLOv8 and OpenCV to detec
 
 ## Demos
 
-### Image Test and Video Test Side by Side
+### Image Test and Video Test
 
 <table>
   <tr>
