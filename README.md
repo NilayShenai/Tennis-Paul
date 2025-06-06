@@ -1,6 +1,6 @@
 # Tennis Paul Beta-1
 
-Tennis Paul Beta-1 is a computer vision app that uses YOLOv8 and OpenCV to detect and analyze the trajectory and motion of tennis balls in various media inputs (images, videos, webcam). The interface is built with Streamlit for interactivity and visualization.
+Tennis Paul is a computer vision app that uses YOLOv8 and OpenCV to detect and analyze the trajectory and motion of tennis balls in various media inputs (images, videos, webcam). The interface is built with Streamlit for interactivity and visualization.
 
 
 ## Features
